@@ -49,18 +49,15 @@
 </a>
 
 </p>
-
 ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=🎬+Subscribe+to+JZ+Tech+Studio;🔥+Learn+AI+%7C+Coding+%7C+Tech+Projects;🚀+New+Videos+Every+Week;💡+Grow+Your+Tech+Skills+With+Me" />
 </p>
-
 <p align="center">
   <a href="https://www.youtube.com/@Jztechstudio">
     <img src="https://img.shields.io/badge/▶️ Subscribe JZ Tech Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" />
   </a>
 </p>
-
 ---
 # ❤️ Learning • Building • Helping People With AI
 
