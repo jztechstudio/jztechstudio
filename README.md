@@ -113,7 +113,19 @@
 </p>
 
 ---
+# 🐍 Snake Eating Contributions
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jztechstudio/jztechstudio/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---# 🐍 Snake Eating Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jztechstudio/jztechstudio/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -126,14 +138,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jztechstudio&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Snake Eating Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jztechstudio/jztechstudio/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
