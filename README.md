@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Jobair
 
-<!--
-**jobairzihan343/jobairzihan343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer from Bangladesh  
+💻 Basic Coder & AI Enthusiast  
+🤖 I love building free AI projects to help people  
+🚀 Sharing AI, IT Tech, Developer Tips & Tricks  
 
-Here are some ideas to get you started:
+## 🌐 Connect With Me
+📺 YouTube: https://www.youtube.com/@Jztechstudio  
+📘 Facebook:https://www.facebook.com/profile.php?id=61552604410914K  
+📢 Telegram:https://t.me/jztechstudiobd
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Currently Learning
+- AI Tools
+- Web Development
+- Automation
+
+❤️ Learning, Building & Helping People With AI
