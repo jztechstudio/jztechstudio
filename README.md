@@ -64,11 +64,6 @@
   </a>
 </p>
 
-<p align="center">
-  🔗 <b>YouTube Channel:</b> 
-  <a href="https://www.youtube.com/@Jztechstudio">https://www.youtube.com/@Jztechstudio</a>
-</p>
-
 ---
 
 # ❤️ Learning • Building • Helping People With AI
