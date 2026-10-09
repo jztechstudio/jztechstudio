@@ -52,12 +52,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=900&center=true&vCenter=true&lines=🔥+Learn+Tech%2C+Build+Future+with+JZ+Tech+Studio;🤖+Exploring+AI%2C+One+Project+at+a+Time;🧠+Learn+Smart.+Build+Smart.+Think+Smart.;🔔+Join+JZ+Tech+Studio+%26+Level+Up+Your+Skills;🔥+Learn.+Build.+Grow.+Repeat.;💥+Don%E2%80%99t+Miss+Future+Tech+Uploads;🚀+Code.+Create.+Conquer.;▶️+Subscribe+for+Smart+Tech+Content)](https://git.io/typing-svg)
 
-</p>
-<p align="center">
-  <a href="https://www.youtube.com/@Jztechstudio">
-    <img src="https://img.shields.io/badge/ Subscribe JZ Tech Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" />
-  </a>
-</p>
 
 ---
 # ❤️ Learning • Building • Helping People With AI
