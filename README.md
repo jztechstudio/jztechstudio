@@ -127,8 +127,6 @@
 </p>
 
 ---
-# 👀 Profile Visitors
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jztechstudio&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
