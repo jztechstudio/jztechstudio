@@ -1,0 +1,6 @@
+calibration:
+  default:
+    distance_meters: 20
+    line_position_y: 300
+    speed_limit_kmh: 60
+    fps: 30
